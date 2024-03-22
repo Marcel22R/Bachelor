@@ -1,0 +1,9 @@
+<NotepadPlus>
+    <Project name="Bachelor">
+        <Folder name="Phase1">
+            <File name="TODO_PHASE1.txt" />
+            <File name="RequirementsEngineering.txt" />
+            <File name="Interview-Skript.txt" />
+        </Folder>
+    </Project>
+</NotepadPlus>

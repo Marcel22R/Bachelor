@@ -1,0 +1,23 @@
+Phase 1:
+
+Interviews:
+
+Action->Plan interview
+    1. Read up on RequirementsEngineering and qualitative content analysis
+    2. Ask 5 questions about general views and challenges regarding exercise
+    3. Make 5 Mockups
+    4. Make 3 Full body exercise programs that can be identified with one wrist mounted IMU
+    5. Do qualitative content analysis
+    6. Answer first research question
+
+
+
+
+Welche Struktur hat Interview:
+
+    1. Generelle Fragen
+        Zuerst kurze Einleitung: Was mach ich, wofür brauch ich dich, was ist RequirementsEngineering, was ist qualitative COntent analysis.
+        Welche Sport-Gesundheitsapps hast du in der Vergangenheit verwendet?
+        Was würdest du als die drei wichtigsten Features einer Sport-App bezeichnen?
+    2. Mockups bewerten
+    3. Trainingspläne bewerten

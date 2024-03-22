@@ -1,0 +1,8 @@
+Requirements Engineering(RE) ist laut International Requirements Engineering Board (IREB):
+
+    * Ermittlung von Anforderungen inklusive Detailierung und Verfeinerung
+    * Dokumentation zu Beschreibung von Anforderungen
+    * Prüfung und Abstimmung von Anforderungen mit dem Ziel, die Qualität sicherzustellen
+    * Die Verwaltung - Requirements Management - von Anforderungen
+    
+    

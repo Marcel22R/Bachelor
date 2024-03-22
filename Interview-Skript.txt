@@ -1,0 +1,21 @@
+Servus und danke nochmal fürs Mithelfen.
+Ich geb da zuerst a bissl an Überblick
+
+
+Agenda:
+Was mach ich?
+Ein Projekt zu Machine Learning, bei dem ich eine App entwickle, mit der sportliche Bewegungen im Gym-Kontext erkannt werden können. 
+Dazu verbindet sich die App im Endeffekt mit einer Inertial Measurement Unit (IMU), die am Handgelenk befestigt wird.
+
+Was muss ich dafür tun? 
+Die BAchelorarbeit ist in 3 Phasen unterteilt. Jetzt sind wir gerade in der ersten Phase.
+Phase 1: Anforderungserhebung. In der Phase geht es darum 3 Leute zu interviewen und zu schauen, welche Anforderungen und Wünsche sie an solch eine App hätten. 
+Phase 2: Entwicklung der App
+Phase 3: Testen der App
+
+Wenn das für dich passt würd ich deine Hilfe für 1 und 3 benötigen.
+
+Wie läuft Ph
+
+
+Ich stell dir generelle Fragen 
