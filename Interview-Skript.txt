@@ -15,7 +15,27 @@ Phase 3: Testen der App
 
 Wenn das für dich passt würd ich deine Hilfe für 1 und 3 benötigen.
 
-Wie läuft Ph
+Welches Ziel hat das Interview:
+Das Interview hat das Ziel, Requirements Engineering, also Anforderungserhebung zu machen. Es ist also mein Ziel, am Ende eine bessere Idee zu haben, welche Aspekte wirklich notwendig und gewünscht sind, um diese App umzusetzen. Damit nix unnötiges gebaut wird. Es ist absolut kein Trainingswissen für das Interview notwendig, da für eine gute App alle Wissensstände wertvoll sind. 
+
+Requirements Engineering umfasst: Ermittlung, Dokumentation, Prüfung und Verwaltung von Anforderungen. 
+
+Wie läuft Phase 1 jetzt ab?
+Zuerst werde ich mit dir ein Interview abhalten, welches wie folgt strukturiert ist: 
+1: Allgemeine Fragen zum Thema Fitnesscenter und Sport
+    Wie strukturierst du dein Training in der Kraftkammer?
+    Was bedeutet der Begriff "Progressive Overload" für dich?
+    Wie notierst du dir dein aktuelles Kraftlevel, also Sätze, Wiederholungen und Gewicht?
+    Auf einer Skala von 1-5 wie bewertest du folgende Features:
+        Geschätzter Kalorienverbrauch pro Workout
+        Zählen von 
+        //TODO: Add more features
+2: Bewertung von MockUps
+        //TODO: Create MockUps
+3: Bewertung von Traingsplänen
+        //TODO: Create Trainingsplan
+4: (Für mich -> Qualitative Kontent Analyse
+
 
 
 Ich stell dir generelle Fragen 
