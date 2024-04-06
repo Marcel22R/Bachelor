@@ -22,6 +22,8 @@ Requirements Engineering umfasst: Ermittlung, Dokumentation, Prüfung und Verwal
 Wie läuft Phase 1 jetzt ab?
 Zuerst werde ich mit den Personen Interviews abhalten, welche wie folgt strukturiert sein werden: 
 1: Allgemeine Fragen zum Thema Fitnesscenter und Sport
+    Wenn es welche gibt -> Welche Sport-Gesundheitsapps hast du in der Vergangenheit verwendet?
+    Was würdest du als generell wichtige Features einer Sport-App bezeichnen?
     Wie strukturierst du dein Training in der Kraftkammer?
     Was bedeutet der Begriff "Progressive Overload" für dich?
     Wie notierst du dir dein aktuelles Kraftlevel, also Sätze, Wiederholungen und Gewicht?
@@ -35,7 +37,7 @@ Zuerst werde ich mit den Personen Interviews abhalten, welche wie folgt struktur
         //TODO: Create MockUps
 3: Bewertung von Traingsplänen
         //TODO: Create Trainingsplan
-4: Dann -> Qualitative Inhaltsanalyse
+4: Dann -> Qualitative Inhaltsanalyse ->
 
 
 
