@@ -7,4 +7,28 @@ Quantitative content analysis is about random samples and probabilistic methods.
 
 
 Qualitative content analysis differs from quantitative content analysis by using purposively selected text to inform the research question.
-Quantitative approach produces numbers that are manipulated by various statistical methods. Qualitative approach produces descriptions and reflections from the subjects that show how they view the social world.
+Quantitative approach produces numbers that are manipulated by various statistical methods. Qualitative approach produces descriptions and reflections from the subjects that show how they view the social world. (1)
+
+
+
+How to do qualitative content analysis?
+
+1. Define a corpus of text.
+2. Document under which circumstances the text was collected.
+3. Describe in which format the data exists.
+4. Define precise questions to guide the direction of the analysis -> probably research questions
+5. Connect questions to exisiting research
+6. Next the type of analysis is chosen (summary/explanation/structurisation). Based on this the next steps of interpretation are chosen. Main goal is to find a system of categories
+7. Units of analysis are chosen. (Units of code, Units of context and units of evaluation)
+8. The data gets encoded based on the category system and the units of analysis. (On paper it would look like highlighting it)
+9. Findings are collected and interpreted based on the research question.
+10. Gütekriterien sind erfüllt? 
+
+
+
+
+
+
+Src:
+(1) https://www.ischool.utexas.edu/~yanz/Content_analysis.pdf
+(2) https://methodenzentrum.ruhr-uni-bochum.de/e-learning/qualitative-auswertungsmethoden/qualitative-inhaltsanalyse/qualitative-inhaltsanalyse-nach-mayring/
