@@ -5,5 +5,8 @@
             <File name="RequirementsEngineering.txt" />
             <File name="Interview-Skript.txt" />
         </Folder>
+        <Folder name="Phase2" />
+        <Folder name="Phase3" />
+        <Folder name="Verschriftlichung" />
     </Project>
 </NotepadPlus>

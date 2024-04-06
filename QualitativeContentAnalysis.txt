@@ -1,0 +1,10 @@
+Qualitative Content Analysis is a research method for the subjective interpretation of the content of text data by trying to find patterns and common themes.
+
+Any qualitative data reduction and  sense-making effort that takes a volume of qualitative material and tries to boil it down into its essential parts. It attempts to identify core consitstencies and meanings.
+
+Some words on quantitative content analysis:
+Quantitative content analysis is about random samples and probabilistic methods.
+
+
+Qualitative content analysis differs from quantitative content analysis by using purposively selected text to inform the research question.
+Quantitative approach produces numbers that are manipulated by various statistical methods. Qualitative approach produces descriptions and reflections from the subjects that show how they view the social world.
