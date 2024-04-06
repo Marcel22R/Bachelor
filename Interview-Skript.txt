@@ -4,37 +4,38 @@ Ich geb da zuerst a bissl an Überblick
 
 Agenda:
 Was mach ich?
-Ein Projekt zu Machine Learning, bei dem ich eine App entwickle, mit der sportliche Bewegungen im Gym-Kontext erkannt werden können. 
+Ein wissenschaftliche Arbeit mit Projekt zu Machine Learning, bei dem ich eine App entwickle, mit der ausgewählte sportliche Bewegungen im Gym-Kontext erkannt werden können. 
 Dazu verbindet sich die App im Endeffekt mit einer Inertial Measurement Unit (IMU), die am Handgelenk befestigt wird.
 
 Was muss ich dafür tun? 
-Die BAchelorarbeit ist in 3 Phasen unterteilt. Jetzt sind wir gerade in der ersten Phase.
+Die Bachelorarbeit ist in 3 Phasen unterteilt. Jetzt sind wir gerade in der ersten Phase.
 Phase 1: Anforderungserhebung. In der Phase geht es darum 3 Leute zu interviewen und zu schauen, welche Anforderungen und Wünsche sie an solch eine App hätten. 
 Phase 2: Entwicklung der App
 Phase 3: Testen der App
 
-Wenn das für dich passt würd ich deine Hilfe für 1 und 3 benötigen.
-
 Welches Ziel hat das Interview:
-Das Interview hat das Ziel, Requirements Engineering, also Anforderungserhebung zu machen. Es ist also mein Ziel, am Ende eine bessere Idee zu haben, welche Aspekte wirklich notwendig und gewünscht sind, um diese App umzusetzen. Damit nix unnötiges gebaut wird. Es ist absolut kein Trainingswissen für das Interview notwendig, da für eine gute App alle Wissensstände wertvoll sind. 
+
+Das Interview hat das Ziel, Requirements Engineering, also Anforderungserhebung zu machen. Es ist also mein Ziel, am Ende eine bessere Idee zu haben, welche Aspekte wirklich notwendig und gewünscht sind, um diese App umzusetzen. Damit nix unnötiges gebaut wird. Es ist absolut kein Trainingswissen für das Interview notwendig, da für eine gute User-Experience alle Wissensstände wertvoll sind. 
 
 Requirements Engineering umfasst: Ermittlung, Dokumentation, Prüfung und Verwaltung von Anforderungen. 
 
 Wie läuft Phase 1 jetzt ab?
-Zuerst werde ich mit dir ein Interview abhalten, welches wie folgt strukturiert ist: 
+Zuerst werde ich mit den Personen Interviews abhalten, welche wie folgt strukturiert sein werden: 
 1: Allgemeine Fragen zum Thema Fitnesscenter und Sport
     Wie strukturierst du dein Training in der Kraftkammer?
     Was bedeutet der Begriff "Progressive Overload" für dich?
     Wie notierst du dir dein aktuelles Kraftlevel, also Sätze, Wiederholungen und Gewicht?
     Auf einer Skala von 1-5 wie bewertest du folgende Features:
         Geschätzter Kalorienverbrauch pro Workout
-        Zählen von 
-        //TODO: Add more features
+        Zählen von Sätzen und Wiederholungen und Gewicht
+        Trainingstimer um Zeit zu sparen und Pausen kurz zu halten
+        Anzeige vergangener Workouts
+        Statistiken über vergangene Workouts
 2: Bewertung von MockUps
         //TODO: Create MockUps
 3: Bewertung von Traingsplänen
         //TODO: Create Trainingsplan
-4: (Für mich -> Qualitative Kontent Analyse
+4: Dann -> Qualitative Inhaltsanalyse
 
 
 

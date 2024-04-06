@@ -3,7 +3,7 @@ Requirements Engineering(RE) ist laut International Requirements Engineering Boa
     * Ermittlung von Anforderungen inklusive Detailierung und Verfeinerung
     * Dokumentation zu Beschreibung von Anforderungen
     * Prüfung und Abstimmung von Anforderungen mit dem Ziel, die Qualität sicherzustellen
-    * Die Verwaltung - Requirements Management - von Anforderungen
+    * Die Verwaltung - Requirements Management - von Anforderungen (1)
     
 Geht bei meiner Arbeit Hand in Hand mit Qualitative Content Analysis. 
 Schritte: 
@@ -18,4 +18,11 @@ Schritte:
     9. Mit den Stakeholdern die Requirements kommunizieren
     10. Requirements iterieren
     
-    
+(2)
+
+
+
+
+Src:
+(1) Internet
+(2) ChatGpt    
